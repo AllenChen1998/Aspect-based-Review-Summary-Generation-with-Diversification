@@ -1,5 +1,6 @@
 # Essay
-* Aspect-based Review Summary Generation with Diversification
+* Aspect-based Review Summary Generation with Diversification (ISAS 2019)
+* From the [repository](https://github.com/AllenChen1998/DoubanCrawler-5.5Mreviews-EmbeddingMatrix-AspectBasedAnalysis-Entity)
 
 # Python Environment
 * python==3.7.0
