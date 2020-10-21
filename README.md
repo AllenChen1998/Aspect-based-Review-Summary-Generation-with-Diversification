@@ -23,7 +23,5 @@
 * See original project at https://github.com/AllenChen1998/DoubanCrawler-5.5Mreviews-EmbeddingMatrix-AspectBasedAnalysis-Entity
   
 # Author
-* Chen Sizhe, junior in Shanghai Jiao Tong University in department of Automation
-* Research interests: NLP, machine learning, generative models
-* Personal interests: Classical/Anime Piano 
-* Contace me at csz729020210@sjtu.edu.cn
+* Sizhe Chen (sizhe.chen@sjtu.edu.cn), Department of Automation, Shanghai Jiao Tong University
+* Research interests: robust machine learning, model security, and interpretability of DNN.
